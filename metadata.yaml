@@ -1,0 +1,32 @@
+_repo: Makbeto_47913
+contributor:
+  translator:
+    agent_name: Lambert, D. H.
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '44521'
+    url: http://www.gutenberg.org/2009/agents/44521
+    wikipedia: http://eo.wikipedia.org/wiki/Daniel_Henry_Lambert
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2015-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47913'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Makbeto
+url: http://www.gutenberg.org/ebooks/47913
